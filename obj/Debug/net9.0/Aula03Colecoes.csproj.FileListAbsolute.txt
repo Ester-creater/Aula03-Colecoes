@@ -12,3 +12,18 @@ D:\2DS dudinha e heloisa\DS-I(Desenvolvimento de sistema)\Aula03Colecoes\obj\Deb
 D:\2DS dudinha e heloisa\DS-I(Desenvolvimento de sistema)\Aula03Colecoes\obj\Debug\net9.0\Aula03Colecoes.pdb
 D:\2DS dudinha e heloisa\DS-I(Desenvolvimento de sistema)\Aula03Colecoes\obj\Debug\net9.0\Aula03Colecoes.genruntimeconfig.cache
 D:\2DS dudinha e heloisa\DS-I(Desenvolvimento de sistema)\Aula03Colecoes\obj\Debug\net9.0\ref\Aula03Colecoes.dll
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\bin\Debug\net9.0\Aula03Colecoes.exe
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\bin\Debug\net9.0\Aula03Colecoes.deps.json
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\bin\Debug\net9.0\Aula03Colecoes.runtimeconfig.json
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\bin\Debug\net9.0\Aula03Colecoes.dll
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\bin\Debug\net9.0\Aula03Colecoes.pdb
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\obj\Debug\net9.0\Aula03Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\obj\Debug\net9.0\Aula03Colecoes.AssemblyInfoInputs.cache
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\obj\Debug\net9.0\Aula03Colecoes.AssemblyInfo.cs
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\obj\Debug\net9.0\Aula03Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\obj\Debug\net9.0\Aula03Colecoes.sourcelink.json
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\obj\Debug\net9.0\Aula03Colecoes.dll
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\obj\Debug\net9.0\refint\Aula03Colecoes.dll
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\obj\Debug\net9.0\Aula03Colecoes.pdb
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\obj\Debug\net9.0\Aula03Colecoes.genruntimeconfig.cache
+C:\Users\heloe\OneDrive\Desktop\2DS\Aula03-Colecoes\obj\Debug\net9.0\ref\Aula03Colecoes.dll

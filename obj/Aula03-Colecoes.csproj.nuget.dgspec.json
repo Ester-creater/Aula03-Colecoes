@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heloe\\OneDrive\\Desktop\\2DS\\Aula03-Colecoes\\Aula03Colecoes.csproj": {}
+    "C:\\Users\\heloe\\OneDrive\\Desktop\\2DS\\Aula03-Colecoes\\Aula03-Colecoes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heloe\\OneDrive\\Desktop\\2DS\\Aula03-Colecoes\\Aula03Colecoes.csproj": {
+    "C:\\Users\\heloe\\OneDrive\\Desktop\\2DS\\Aula03-Colecoes\\Aula03-Colecoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heloe\\OneDrive\\Desktop\\2DS\\Aula03-Colecoes\\Aula03Colecoes.csproj",
-        "projectName": "Aula03Colecoes",
-        "projectPath": "C:\\Users\\heloe\\OneDrive\\Desktop\\2DS\\Aula03-Colecoes\\Aula03Colecoes.csproj",
+        "projectUniqueName": "C:\\Users\\heloe\\OneDrive\\Desktop\\2DS\\Aula03-Colecoes\\Aula03-Colecoes.csproj",
+        "projectName": "Aula03-Colecoes",
+        "projectPath": "C:\\Users\\heloe\\OneDrive\\Desktop\\2DS\\Aula03-Colecoes\\Aula03-Colecoes.csproj",
         "packagesPath": "C:\\Users\\heloe\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\heloe\\OneDrive\\Desktop\\2DS\\Aula03-Colecoes\\obj\\",
         "projectStyle": "PackageReference",
